@@ -1,2 +1,9 @@
 # app-dev
-My First Repository
+---
+## *My Favorite Movies*
+
+- Interstellar
+- Oppenheimer
+- 12 Angry Men
+- Inception
+- Spiderman
