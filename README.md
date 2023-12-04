@@ -2,8 +2,8 @@
 ---
 ## *My Favorite Movies*
 
--- Interstellar
--- Oppenheimer
--- 12 Angry Men
--- Inception
--- Spiderman
+- Interstellar
+ Oppenheimer
+ 12 Angry Men
+ Inception
+ Spiderman
