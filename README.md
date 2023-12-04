@@ -7,3 +7,4 @@
 - 12 Angry Men
 - Inception
 - Spiderman
+- Batman
